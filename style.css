@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+.titlw{
+    width: 100%;
+    margin:0px ;
+    font-size: 20px;
+    font-family: 'Corinthia', cursive;
+    color: black;
+}
+
+#speed_disk,#volume_disk{
+    height: 100px;
+    width: 100px;
+    
+}
+.disk_speed{
+    float: left;
+
+}
+
+.disk_volume{
+    float: right;
+}
+
+canvas{
+    border: white;
+    border-style: dashed;
+    border-width: 5px;
+}
